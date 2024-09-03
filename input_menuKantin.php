@@ -7,7 +7,7 @@
 
     <body>
         <h3>Daftar Menu di Kantin Mamah Dedeh</h3>
-        <form action="output_menuKantin_169.php" method="POST">
+        <form action="output_menuKantin.php" method="POST">
             <table>
                 <tr>
                     <td>
